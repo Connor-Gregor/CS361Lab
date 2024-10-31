@@ -3,7 +3,7 @@ Members:
  Aryan Ahlawat
  Yen Lin Chang
  Jia Cian Chen
- Joshua MArtin Dascoli
+ Joshua Martin Dascoli
  Connor Gregoris
  Jack David Mitchell
 
@@ -25,11 +25,15 @@ Members:
 4. Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board)
    We will be meeting Monday and Tuesday from 3:30 to 3:45 online, if the meeting is in person it will be discussed beforehand where to meet.
 
-6. Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates)
-if you adopt such a policy during the initial meeting, put it here
-7. Procedure for handling a member who is not meeting expectations
+5. Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates)
+   if you adopt such a policy during the initial meeting, put it here:
+   1. All code that is written should be clean and easily readable by others, and each method that is implemented must be well documented. 
+   2. All members are expected to accomplish their tasks on time and be ready/prepared for each sprint meeting.
+   3. All code that is written should be at the same professional quality
+
+6. Procedure for handling a member who is not meeting expectations
 must include at least 3 actions before involving the instructor
 
-8. Signatures: each member must sign their name by typing their name at the bottom of the document.
+7. Signatures: each member must sign their name by typing their name at the bottom of the document.
 =======
 
