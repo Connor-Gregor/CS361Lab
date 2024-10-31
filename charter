@@ -19,6 +19,9 @@ Members:
    decision making process stated in part six of this section.
 
 3. Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it in to github" is not done.)
+   The task is completed when the person assigned to the task commits to the branch and makes a pull request. Let two other people 
+   review the code. If there is an issue, the assignee should make changes. If not, the task is done.
+
 4. Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board)
 6. Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates)
 if you adopt such a policy during the initial meeting, put it here
