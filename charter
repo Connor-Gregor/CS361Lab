@@ -40,11 +40,16 @@ Members:
           done by what person each sprint, what is done or needs improvement, and any resources, questions, or ideas that may come up while
           working on the designated tasks. 
 
-5. Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates)
-   if you adopt such a policy during the initial meeting, put it here:
-   1. All code that is written should be clean and easily readable by others, and each method that is implemented must be well documented. 
-   2. All members are expected to accomplish their tasks on time and be ready/prepared for each sprint meeting.
-   3. All code that is written should be at the same professional quality
+5. Procedure for adopting policies
+          1. All code that is written should be clean and easily readable by others, and each method that is implemented must be well documented. 
+          2. All members are expected to accomplish their tasks on time and be ready/prepared for each sprint meeting.
+          3. All code that is written should be at the same professional quality
+          4. All team members must review and comment on two group members pull requests per sprint
+          5. The scrum master will notify any absent members during meetings about their assigned work
+          6. If working with another group member on a task, they must be communicating with eachother, about what part of the task each of them are
+             working on.
+          7. All team members must update the trello board each sprint meeting to show what tasks each member is working on
+          8. Scrum master will document each strike and probation with reasons on a private document for recording purposes
 
 6. Procedure for handling a member who is not meeting expectations must include at least 3 actions before involving the instructor
 
