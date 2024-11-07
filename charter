@@ -31,17 +31,22 @@ Members:
    2. All members are expected to accomplish their tasks on time and be ready/prepared for each sprint meeting.
    3. All code that is written should be at the same professional quality
 
-6. Procedure for handling a member who is not meeting expectations
-must include at least 3 actions before involving the instructor
+6. Procedure for handling a member who is not meeting expectations must include at least 3 actions before involving the instructor
+
      Minor Group Offence:
-            A minor group offence can occur for breaking indicated statutes of the charter. For example, missing a 
-            meeting without prior notice or valid reason. Minor
-            offences require the offender to be labeled as “Storm trooper” for their stupidity. The
-            storm trooper is required to prepare a delicious baked treat good either homemade or
-            store bought within the next two meetings. Failure to do so will escalate them to the next
-            level of offence. A record of the minor offence and when the delicious baked treat arrived
-            will be recorded by the group assigned note taker.
+            A minor group offence occurs once one of the charter rules/statements have been broken. Trying to say
+            a task is finished without submitting a pull request would be an example of a minor group offence.
+            Once a member has aqcuired a minor group offence, then they will receive one strike, for not living
+            up to the charters rules and regulations. If the member ammends their group offence by making up a 
+            meeting or fixing a mistake in a task, then the strike will be waived. If the member does not do 
+            anything to correct their strike, then it will be kept, and any subsequent strike from a minor group
+            offence will result in an additional strike. After three strike have been accumulated, the member will
+            end up receiving a major group offence. All strikes and reasons will be kept note off, by the scrum master.
+
      Major Group Offence:
+            A major group offence occurs once
+
+
             A major group offence can occur by breaking indicated statutes of the charter, or for
             accumulation of 3 or more minor offences. Major offences require that the offender be
             labeled as “Anakin Skywalker” for his treachery. Anakin Skywalker is on probation and
@@ -49,6 +54,7 @@ must include at least 3 actions before involving the instructor
             of his offence. Anakin Skywalker may return to regular group member status upon a
             group consensus. If Anakin Skywalker commits another offence constituted as either
             minor or major, he will become a candidate for punishment and dismissal.
+
        Punishment and Dismissal:
             A group member committing enough minor and major offences will finally have gone to
             the dark side and demoted to Darth Vader. They will be referred to punishment and
