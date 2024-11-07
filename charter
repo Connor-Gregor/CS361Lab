@@ -24,9 +24,13 @@ Members:
           strike and the group will begin to take on that member‟s responsibilities through the decision making process stated in 
           part six of this section.
 
-3. Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it in to github" is not done.)
-   The task is completed when the person assigned to the task commits to the branch and makes a pull request. Let two other people 
-   review the code. If there is an issue, the assignee should make changes. If not, the task is done.
+3. Definition of done: when is a task complete? 
+          The task is completed when the person assigned to the task commits to the branch and makes a pull request, and two other
+          people review and approve the code. If there is an issue, the two group members who reviewed the code must leave a comment
+          explaining what needs to be fixed or improved before the task can be considered for approval. The group member assigned to
+          the task must now correct the changes outlined by the group members comments. If the code is approved by two group members
+          after review, then the task is considered completed. If the assignee finishes changes, they must go through whole the process 
+          again of getting approved by two other group members.
 
 4. Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board)
    We will be meeting Monday and Tuesday from 3:30 to 3:45 online, if the meeting is in person it will be discussed beforehand where to meet.
