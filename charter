@@ -9,19 +9,19 @@ Members:
 
 
 1. Availability for meeting expectations
-          There will be three daily sprint meetings each week that will last for 15 minutes. Each member is expected to attend
+          There will be three daily sprint meetings each week that will last for fifteen minutes. Each member is expected to attend
           all meetings they are able to attend. If a group member has a reasonable excuse, then they must notify the scrum master
           or group before hand to prepare the group for their absence. If a group member does not show up to a meeting, without
-          approval from scrum master or group, they will receive a strike. Meetings will be online via Discord group call. If a
-          group member is busy when there is a group meeting, then the group members participating in the meeting can assign the 
-          absentee project work to the groups discretion. The group will give a brief overview of the meeting they missed to the 
-          absentee and discuss work that was assigned to them.
+          approval from scrum master or group, they will receive a strike. Meetings will be online via Discord group call or 
+          in-person if decided beforehand. If a group member is busy when there is a group meeting, then the group members 
+          participating in the meeting can assign the absentee project work to the groups discretion. The group will give a brief 
+          overview of the meeting they missed to the absentee and discuss work that was assigned to them.
 
 2. Response time to communication expectations
           Regular communication should occur every three days via Discord. This communication should include a simple update on 
           ones progress of their portion of the project. If a member forgets to post progress, one member will send an inquiry
           message to the person who forgot. If the message is not responded to in twenty-four hours, the member will receive a 
-          strike and the group will begin to take on that member‟s responsibilities through the decision making process stated in 
+          strike and the group will begin to take on that members' responsibilities through the decision making process stated in 
           part six of this section.
 
 3. Definition of done: when is a task complete? 
@@ -32,8 +32,13 @@ Members:
           after review, then the task is considered completed. If the assignee finishes changes, they must go through whole the process 
           again of getting approved by two other group members.
 
-4. Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board)
-   We will be meeting Monday and Tuesday from 3:30 to 3:45 online, if the meeting is in person it will be discussed beforehand where to meet.
+4. Scrum meeting format/frequency and distribution of documentation tasks
+          We will have three daily scrum meetings every week, each lasting fifteen minutes. They will be on Monday, Tuesday, and Thursday. 
+          The meetings on Monday and Tuesday will be online from 3:30pm to 3:45pm. The meeting on Thursday will occur have lab is finished
+          around 4:00pm to 4:15pm in person. The scrum master is expected to keep track off all documentation of strikes and probations of
+          group members, and the reasons. We will have a Trello board which must be updated by all members to keep track of what is being
+          done by what person each sprint, what is done or needs improvement, and any resources, questions, or ideas that may come up while
+          working on the designated tasks. 
 
 5. Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates)
    if you adopt such a policy during the initial meeting, put it here:
@@ -46,17 +51,17 @@ Members:
      Minor Group Offense:
             A minor group offense occurs once one of the charter rules/statements have been broken. Trying to say
             a task is finished without submitting a pull request would be an example of a minor group offense.
-            Once a member has aqcuired a minor group offense, then they will receive one strike, for not living
-            up to the charters rules and regulations. If the member ammends their group offense by making up a 
+            Once a member has acquired a minor group offense, then they will receive one strike, for not living
+            up to the charters rules and regulations. If the member amends their group offense by making up a 
             meeting or fixing a mistake in a task, then the strike will be waived. If the member does not do 
             anything to correct their strike, then it will be kept, and any subsequent strike from a minor group
             offense will result in an additional strike. After three strike have been accumulated, the member will
             end up receiving a major group offense. All strikes and reasons will be kept note off, by the scrum master.
 
      Major Group offense:
-            A major group offense occurs once there as been a substantial break has occured in the charter. For
+            A major group offense occurs once there as been a substantial break has occurred in the charter. For
             example, If a group member does not respond to messages for over a week, would result in a major group 
-            offenc. If a member receives a major group offense, group responsibilities may be switched to another
+            offense. If a member receives a major group offense, group responsibilities may be switched to another
             group member to continue work, so the project does not fall behind in areas. Another way to earn a major
             group offense would be if a member accumulates three or more strikes from minor group offenses. 
             Once a member has received a major group offense, they will receive a probation, which will be noted
@@ -73,7 +78,7 @@ Members:
             over by the TA and Rock, along with personal notes about the reassignment candidate from each group 
             member. If the reassignment goes through, then the work submitted and completed by the reassigned group
             member will be kept by the group as group property. If the reassignment does not get approved, any strikes
-            will be reset but the member who receieved reassignment candidacy wil keep their probation.
+            will be reset but the member who received reassignment candidacy will keep their probation.
 
 7. Signatures: each member must sign their name by typing their name at the bottom of the document.
 =======
