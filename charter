@@ -1,63 +1,94 @@
 Unit Testers
 Members:
- Aryan Ahlawat
- Yen Lin Chang
- Jia Cian Chen
- Joshua Martin Dascoli
- Connor Gregoris
- Jack David Mitchell
+   Aryan Ahlawat
+   Yen Lin Chang
+   Jia Cian Chen
+   Joshua Martin Dascoli
+   Connor Gregoris
+   Jack David Mitchell
 
 
 1. Availability for meeting expectations
-  Meet it person, but if you can't make it, then meet online. 3 daily sprint meetings per week for 15 minutes.
+          There will be three daily sprint meetings each week that will last for fifteen minutes. Each member is expected to attend
+          all meetings they are able to attend. If a group member has a reasonable excuse, then they must notify the scrum master
+          or group before hand to prepare the group for their absence. If a group member does not show up to a meeting, without
+          approval from scrum master or group, they will receive a strike. Meetings will be online via Discord group call or 
+          in-person if decided beforehand. If a group member is busy when there is a group meeting, then the group members 
+          participating in the meeting can assign the absentee project work to the groups discretion. The group will give a brief 
+          overview of the meeting they missed to the absentee and discuss work that was assigned to them.
 
 2. Response time to communication expectations
-   Regular communication should occur every three days via discord. This communication should include a simple 
-   update on ones progress of their portion of the project. If a member forgets to post progress, 
-   any member can send an inquiry message to the person who forgot. 
-   If the message is not responded to in 24 hours, the group will begin to take on that member‟s responsibilities through the
-   decision making process stated in part six of this section.
+          Regular communication should occur every three days via Discord. This communication should include a simple update on 
+          ones progress of their portion of the project. If a member forgets to post progress, one member will send an inquiry
+          message to the person who forgot. If the message is not responded to in twenty-four hours, the member will receive a 
+          strike and the group will begin to take on that members' responsibilities through the decision making process stated in 
+          part six of this section.
 
-3. Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it in to github" is not done.)
-   The task is completed when the person assigned to the task commits to the branch and makes a pull request. Let two other people 
-   review the code. If there is an issue, the assignee should make changes. If not, the task is done.
+3. Definition of done: when is a task complete? 
+          The task is completed when the person assigned to the task commits to the branch and makes a pull request, and two other
+          people review and approve the code. If there is an issue, the two group members who reviewed the code must leave a comment
+          explaining what needs to be fixed or improved before the task can be considered for approval. The group member assigned to
+          the task must now correct the changes outlined by the group members comments. If the code is approved by two group members
+          after review, then the task is considered completed. If the assignee finishes changes, they must go through whole the process 
+          again of getting approved by two other group members.
 
-4. Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board)
-   We will be meeting Monday and Tuesday from 3:30 to 3:45 online, if the meeting is in person it will be discussed beforehand where to meet.
+4. Scrum meeting format/frequency and distribution of documentation tasks
+          We will have three daily scrum meetings every week, each lasting fifteen minutes. They will be on Monday, Tuesday, and Thursday. 
+          The meetings on Monday and Tuesday will be online from 3:30pm to 3:45pm. The meeting on Thursday will occur have lab is finished
+          around 4:00pm to 4:15pm in person. The scrum master is expected to keep track off all documentation of strikes and probations of
+          group members, and the reasons. We will have a Trello board which must be updated by all members to keep track of what is being
+          done by what person each sprint, what is done or needs improvement, and any resources, questions, or ideas that may come up while
+          working on the designated tasks. 
 
-5. Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates)
-   if you adopt such a policy during the initial meeting, put it here:
-   1. All code that is written should be clean and easily readable by others, and each method that is implemented must be well documented. 
-   2. All members are expected to accomplish their tasks on time and be ready/prepared for each sprint meeting.
-   3. All code that is written should be at the same professional quality
+5. Procedure for adopting policies
+          1. All code that is written should be clean and easily readable by others, and each method that is implemented must be well documented. 
+          2. All members are expected to accomplish their tasks on time and be ready/prepared for each sprint meeting.
+          3. All code that is written should be at the same professional quality
+          4. All team members must review and comment on two group members pull requests per sprint
+          5. The scrum master will notify any absent members during meetings about their assigned work
+          6. If working with another group member on a task, they must be communicating with eachother, about what part of the task each of them are
+             working on.
+          7. All team members must update the trello board each sprint meeting to show what tasks each member is working on
+          8. Scrum master will document each strike and probation with reasons on a private document for recording purposes
 
-6. Procedure for handling a member who is not meeting expectations
-must include at least 3 actions before involving the instructor
-     Minor Group Offence:
-            A minor group offence can occur for breaking indicated statutes of the charter. For example, missing a 
-            meeting without prior notice or valid reason. Minor
-            offences require the offender to be labeled as “Storm trooper” for their stupidity. The
-            storm trooper is required to prepare a delicious baked treat good either homemade or
-            store bought within the next two meetings. Failure to do so will escalate them to the next
-            level of offence. A record of the minor offence and when the delicious baked treat arrived
-            will be recorded by the group assigned note taker.
-     Major Group Offence:
-            A major group offence can occur by breaking indicated statutes of the charter, or for
-            accumulation of 3 or more minor offences. Major offences require that the offender be
-            labeled as “Anakin Skywalker” for his treachery. Anakin Skywalker is on probation and
-            his probation status is to be clearly documented by email including a detailed description
-            of his offence. Anakin Skywalker may return to regular group member status upon a
-            group consensus. If Anakin Skywalker commits another offence constituted as either
-            minor or major, he will become a candidate for punishment and dismissal.
-       Punishment and Dismissal:
-            A group member committing enough minor and major offences will finally have gone to
-            the dark side and demoted to Darth Vader. They will be referred to punishment and
-            dismissal and will be given over to review by the TA and governing bodies (the Rock).
-            An email describing the offences leading up to punishment and dismissal will be displayed 
-            along with testimonies from at least 2 other group members and a log of
-            offenses. If available, the offending members work will be confiscated and termed as
-            “belonging to the group”.
+6. Procedure for handling a member who is not meeting expectations must include at least 3 actions before involving the instructor
 
+     Group Consensus:
+            If the group decides at any point, that more action needs to take place then the disciplinary offenses,
+            then a vote can be made for a more severe punishment. If the group all votes for the punishment to be made,
+            with 100% consensus, then it will bypass the other disciplinar policies and go into affect.
+
+     Minor Group Offense:
+            A minor group offense occurs once one of the charter rules/statements have been broken. Trying to say
+            a task is finished without submitting a pull request would be an example of a minor group offense.
+            Once a member has acquired a minor group offense, then they will receive one strike, for not living
+            up to the charters rules and regulations. If the member amends their group offense by making up a 
+            meeting or fixing a mistake in a task, then the strike will be waived. If the member does not do 
+            anything to correct their strike, then it will be kept, and any subsequent strike from a minor group
+            offense will result in an additional strike. After three strike have been accumulated, the member will
+            end up receiving a major group offense. All strikes and reasons will be kept note off, by the scrum master.
+
+     Major Group offense:
+            A major group offense occurs once there as been a substantial break has occurred in the charter. For
+            example, If a group member does not respond to messages for over a week, would result in a major group 
+            offense. If a member receives a major group offense, group responsibilities may be switched to another
+            group member to continue work, so the project does not fall behind in areas. Another way to earn a major
+            group offense would be if a member accumulates three or more strikes from minor group offenses. 
+            Once a member has received a major group offense, they will receive a probation, which will be noted
+            by the scrum master to keep a record of the offense. If the member that received the probation is shown
+            to improve their work efficacy and shows group initiative, then the scrum master may call for a group
+            vote to decide if the member who earned probation, deserves to have their probation waived. If a member
+            with probation ends up receiving another strike, then there will be a talk within the group whether
+            the member deserves to be reassigned. If a member ends up receiving another major strike, whilst holding
+            a probation, then they will immediately be called for reassignment.
+
+       Reassignment:
+            A group member who has collected enough strikes wile on probation will be asked to be reassigned. Any
+            member that ends up a candidate for reassignment will have their strikes, probation, and reasons handed
+            over by the TA and Rock, along with personal notes about the reassignment candidate from each group 
+            member. If the reassignment goes through, then the work submitted and completed by the reassigned group
+            member will be kept by the group as group property. If the reassignment does not get approved, any strikes
+            will be reset but the member who received reassignment candidacy will keep their probation.
 
 7. Signatures: each member must sign their name by typing their name at the bottom of the document.
 =======
