@@ -18,11 +18,11 @@ Members:
           absentee and discuss work that was assigned to them.
 
 2. Response time to communication expectations
-   Regular communication should occur every three days via discord. This communication should include a simple 
-   update on ones progress of their portion of the project. If a member forgets to post progress, 
-   any member can send an inquiry message to the person who forgot. 
-   If the message is not responded to in 24 hours, the group will begin to take on that member‟s responsibilities through the
-   decision making process stated in part six of this section.
+          Regular communication should occur every three days via Discord. This communication should include a simple update on 
+          ones progress of their portion of the project. If a member forgets to post progress, one member will send an inquiry
+          message to the person who forgot. If the message is not responded to in twenty-four hours, the member will receive a 
+          strike and the group will begin to take on that member‟s responsibilities through the decision making process stated in 
+          part six of this section.
 
 3. Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it in to github" is not done.)
    The task is completed when the person assigned to the task commits to the branch and makes a pull request. Let two other people 
@@ -39,22 +39,24 @@ Members:
 
 6. Procedure for handling a member who is not meeting expectations must include at least 3 actions before involving the instructor
 
-     Minor Group Offence:
-            A minor group offence occurs once one of the charter rules/statements have been broken. Trying to say
-            a task is finished without submitting a pull request would be an example of a minor group offence.
-            Once a member has aqcuired a minor group offence, then they will receive one strike, for not living
-            up to the charters rules and regulations. If the member ammends their group offence by making up a 
+     Minor Group Offense:
+            A minor group offense occurs once one of the charter rules/statements have been broken. Trying to say
+            a task is finished without submitting a pull request would be an example of a minor group offense.
+            Once a member has aqcuired a minor group offense, then they will receive one strike, for not living
+            up to the charters rules and regulations. If the member ammends their group offense by making up a 
             meeting or fixing a mistake in a task, then the strike will be waived. If the member does not do 
             anything to correct their strike, then it will be kept, and any subsequent strike from a minor group
-            offence will result in an additional strike. After three strike have been accumulated, the member will
-            end up receiving a major group offence. All strikes and reasons will be kept note off, by the scrum master.
+            offense will result in an additional strike. After three strike have been accumulated, the member will
+            end up receiving a major group offense. All strikes and reasons will be kept note off, by the scrum master.
 
-     Major Group Offence:
-            A major group offence occurs once there as been a substantial break has occured in the charter. For
-            example, If a group member does not respond to messages for over a week. Another way to earn a major
-            group offence would be if a member accumulates three or more strikes from minor group offences. 
-            Once a member has received a major group offence, they will receive a probation, which will be noted
-            by the scrum master to keep a record of the offence. If the member that received the probation is shown
+     Major Group offense:
+            A major group offense occurs once there as been a substantial break has occured in the charter. For
+            example, If a group member does not respond to messages for over a week, would result in a major group 
+            offenc. If a member receives a major group offense, group responsibilities may be switched to another
+            group member to continue work, so the project does not fall behind in areas. Another way to earn a major
+            group offense would be if a member accumulates three or more strikes from minor group offenses. 
+            Once a member has received a major group offense, they will receive a probation, which will be noted
+            by the scrum master to keep a record of the offense. If the member that received the probation is shown
             to improve their work efficacy and shows group initiative, then the scrum master may call for a group
             vote to decide if the member who earned probation, deserves to have their probation waived. If a member
             with probation ends up receiving another strike, then there will be a talk within the group whether
